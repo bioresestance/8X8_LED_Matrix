@@ -1,0 +1,5 @@
+code/*.o
+pcb_files/History/*
+pcb_files/Project Logs for MatrixPrjPCB/*
+pcb_files/Project Outputs for MatrixPrjPCB/*
+pcb_files/*.cam
